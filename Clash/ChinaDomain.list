@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,zijie
 DOMAIN-KEYWORD,byte
-
-
-
+DOMAIN-KEYWORD, guming
+DOMAIN-KEYWORD, luckincoffee
+DOMAIN-KEYWORD, lkcoffee
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
