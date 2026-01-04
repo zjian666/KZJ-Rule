@@ -142,6 +142,8 @@ DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
 # ByteDance
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
