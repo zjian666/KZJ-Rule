@@ -15,6 +15,12 @@ DOMAIN-KEYWORD,byte
 DOMAIN-KEYWORD, guming
 DOMAIN-KEYWORD, luckincoffee
 DOMAIN-KEYWORD, lkcoffee
+DOMAIN-SUFFIX, zanao.com
+DOMAIN-KEYWORD, hzlinks
+DOMAIN-SUFFIX,hzsun.com
+DOMAIN-SUFFIX,leyaoyao.com
+DOMAIN-SUFFIX,shujupie.com
+
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
@@ -172,8 +178,8 @@ DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,21cn.com
 
 # DiDi
-DOMAIN-SUFFIX,didialift.com
-DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-KEYWORD,diditaxi
+DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,udache.com
 
 # Douyu 斗鱼
@@ -198,6 +204,7 @@ DOMAIN-SUFFIX,huaweishop.net
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
+DOMAIN-KEYWORD,huaweicloud.com
 
 # Iflytek 科大讯飞
 DOMAIN-SUFFIX,iflyink.com
@@ -343,9 +350,10 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
+DOMAIN-KEYWORD,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-KEYWORD,tcloud
 
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
