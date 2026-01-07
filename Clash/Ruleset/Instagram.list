@@ -1,6 +1,23 @@
-# 内容：Instagram
-# 数量：4条
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,instagram.com
+# --- Instagram & Meta 整合规则 (策略组: Meta) ---
+
+# [Instagram 核心域名]
+DOMAIN-SUFFIX,instagram.com,Meta
+DOMAIN-SUFFIX,instagr.am,Meta
+DOMAIN-SUFFIX,cdninstagram.com,Meta
+DOMAIN-SUFFIX,ig.me,Meta
+DOMAIN-SUFFIX,threads.net,Meta
+
+# [Meta/Facebook 静态资源与 CDN]
+DOMAIN-SUFFIX,facebook.com,Meta
+DOMAIN-SUFFIX,facebook.net,Meta
+DOMAIN-SUFFIX,fbcdn.net,Meta
+DOMAIN-SUFFIX,fbsbx.com,Meta
+DOMAIN-SUFFIX,fb.com,Meta
+DOMAIN-SUFFIX,messenger.com,Meta
+DOMAIN-SUFFIX,m.me,Meta
+DOMAIN-SUFFIX,meta.com,Meta
+DOMAIN-SUFFIX,tfbnw.net,Meta
+
+# [关键词匹配 - 补充防护]
+DOMAIN-KEYWORD,instagram,Meta
+DOMAIN-KEYWORD,facebook,Meta
