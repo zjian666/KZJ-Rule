@@ -1,0 +1,75 @@
+@Douyin:
+  # --- 字节跳动通用基础设施与 API ---
+  - DOMAIN-SUFFIX,bytedance.com
+  - DOMAIN-SUFFIX,bytedance.net
+  - DOMAIN-SUFFIX,bytedanceapi.com
+  - DOMAIN-SUFFIX,byted.org
+  - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,bytetos.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,zijiecdn.com
+  - DOMAIN-SUFFIX,zijiecdn.net
+  - DOMAIN-SUFFIX,zjcdn.com
+  - DOMAIN-SUFFIX,bdstatic.com
+  - DOMAIN-SUFFIX,byted-static.com
+
+  # --- 抖音 (Douyin) 相关 ---
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,douyinstatic.com
+  - DOMAIN-SUFFIX,iesdouyin.com
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,faceu.com
+
+  # --- 今日头条 (Toutiao) 相关 ---
+  - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,toutiaocloud.com
+  - DOMAIN-SUFFIX,toutiaostatic.com
+  - DOMAIN-SUFFIX,toutiaovod.com
+  - DOMAIN-SUFFIX,toutiaopage.com
+  - DOMAIN-SUFFIX,wukong.com
+
+  # --- 西瓜视频 & 火山小视频 ---
+  - DOMAIN-SUFFIX,ixigua.com
+  - DOMAIN-SUFFIX,xiguatech.com
+  - DOMAIN-SUFFIX,xiguavideo.com
+  - DOMAIN-SUFFIX,huoshan.com
+  - DOMAIN-SUFFIX,huoshanzhibo.com
+  - DOMAIN-SUFFIX,hotsoon.com
+
+  # --- 飞书 (Feishu) 企业协作 ---
+  - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,feishuquickapp.cn
+  - DOMAIN-SUFFIX,fs.cn
+
+  # --- 火山引擎 (Volcengine) B端服务 ---
+  - DOMAIN-SUFFIX,volcengine.com
+  - DOMAIN-SUFFIX,volcengine.net
+  - DOMAIN-SUFFIX,volces.com
+  - DOMAIN-SUFFIX,volcvideo.com
+
+  # --- 垂直领域业务 (懂车帝、掘金、番茄小说) ---
+  - DOMAIN-SUFFIX,dongchedi.com
+  - DOMAIN-SUFFIX,dcarimg.com
+  - DOMAIN-SUFFIX,juejin.cn
+  - DOMAIN-SUFFIX,xitu.io
+  - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,fanqiehuatong.com
+  - DOMAIN-SUFFIX,qishumi.com
+
+  # --- AI 业务 (豆包/Trae) ---
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,ciciai.com
+  - DOMAIN-SUFFIX,trae.sh
+
+  # --- 广告与监测 (穿山甲/广告系统) ---
+  - DOMAIN-SUFFIX,ad.toutiao.com
+  - DOMAIN-SUFFIX,byteadverts.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-sdk.com
