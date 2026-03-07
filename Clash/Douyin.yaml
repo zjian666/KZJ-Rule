@@ -64,6 +64,7 @@
 
   # --- AI 业务 (豆包/Trae) ---
   - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,dola.com
   - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,trae.sh
 
