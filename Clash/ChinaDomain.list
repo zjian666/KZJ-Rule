@@ -27,10 +27,17 @@ DOMAIN-SUFFIX,hzsun.com
 DOMAIN-SUFFIX,leyaoyao.com
 DOMAIN-SUFFIX,shujupie.com
 DOMAIN-KEYWORD,goofish
+
+# 国内车企
 DOMAIN-KEYWORD,zeekrlife
 DOMAIN-KEYWORD,haohanpower
 DOMAIN-KEYWORD,geely
-
+DOMAIN-SUFFIX,byd.com
+DOMAIN-SUFFIX,byd.auto
+DOMAIN-SUFFIX,bydauto.com.cn
+DOMAIN-SUFFIX,fangchengbao.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,gepush.com
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
