@@ -31,22 +31,6 @@ DOMAIN-SUFFIX,hzshudian.com
 DOMAIN-SUFFIX,jmj1995.com
 DOMAIN-KEYWORD,goofish
 
-# 国内车企
-DOMAIN-KEYWORD,zeekrlife
-DOMAIN-KEYWORD,haohanpower
-DOMAIN-KEYWORD,geely
-DOMAIN-SUFFIX,byd.com
-DOMAIN-SUFFIX,bydauto.com
-DOMAIN-SUFFIX,byd.auto
-DOMAIN-SUFFIX,bydauto.com.cn
-DOMAIN-SUFFIX,fangchengbao.com
-DOMAIN-SUFFIX,fangchengbaoapp.com
-DOMAIN-SUFFIX,getui.net
-DOMAIN-SUFFIX,gepush.com
-DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,igexin.com
-DOMAIN-SUFFIX,zztfly.com
-
 # CN域名直连
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,中国
