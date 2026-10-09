@@ -1,0 +1,10 @@
+DOMAIN,tk.anythinktech.com,REJECT
+DOMAIN,umeng,REJECT
+DOMAIN,mssdk.volces.com,REJECT
+DOMAIN,show-api.1sapp.com,REJECT
+DOMAIN,m.magicacid.cn,REJECT
+DOMAIN,cdn5.magicacid.cn,REJECT
+DOMAIN,sdk.beizi.biz,REJECT
+DOMAIN,adfstat.yandex.ru,REJECT
+DOMAIN-KEYWORD,qttunion,REJECT
+DOMAIN-KEYWORD,magicacid,REJECT
