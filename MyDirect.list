@@ -1,0 +1,37 @@
+# ===== 通用直连 =====
+HOST-SUFFIX,tuhu.org,direct
+HOST-SUFFIX,changyan.com,direct
+HOST-SUFFIX,bing.com,direct
+HOST-SUFFIX,bing.net,direct
+HOST-SUFFIX,bingapis.com,direct
+HOST-SUFFIX,map.baidu.com,direct
+HOST-SUFFIX,tzc.edu.cn,direct
+HOST-SUFFIX,tapimg.com,direct
+HOST-SUFFIX,kimi.com,direct
+HOST-SUFFIX,caiyunapp.com,direct
+HOST-SUFFIX,cyapi.cn,direct
+HOST-SUFFIX,welcrm.com,direct
+DOMAIN-KEYWORD,sinopec,direct
+DOMAIN-KEYWORD,wxgateway,direct
+HOST-SUFFIX,todesk.com,direct
+DOMAIN-KEYWORD,dingtalk,direct
+DOMAIN,zjian.edu.kg,direct
+DOMAIN-KEYWORD,llycloud,direct
+DOMAIN-KEYWORD,zjian.qzz.io,direct
+DOMAIN-KEYWORD,langlangy.cn,direct
+DOMAIN,gift.kfcgood.com,direct
+DOMAIN-KEYWORD,oray,direct
+DOMAIN-KEYWORD,intisg.net,direct
+DOMAIN-KEYWORD,qlivecdn,direct
+DOMAIN-KEYWORD,wxlivecdn,direct
+DOMAIN-KEYWORD,tlivesource,direct
+DOMAIN-KEYWORD,tcdnlive,direct
+DOMAIN-KEYWORD,rumt-zh.com,direct
+DOMAIN-KEYWORD,longfor.com,direct
+DOMAIN-KEYWORD,diancan,direct
+
+# ===== Wise 支付 =====
+DOMAIN-KEYWORD,wise.com,direct
+
+# ===== Yandex 服务 =====
+DOMAIN-KEYWORD,yandex,direct
