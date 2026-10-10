@@ -1,4 +1,5 @@
 # ===== 通用直连 =====
+IP-CIDR,8.8.8.8/32,DIRECT,no-resolve
 HOST-SUFFIX,tuhu.org,direct
 HOST-SUFFIX,intsig.net,direct
 HOST-SUFFIX,changyan.com,direct
